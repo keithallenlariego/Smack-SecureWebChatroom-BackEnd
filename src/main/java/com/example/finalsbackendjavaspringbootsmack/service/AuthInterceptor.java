@@ -1,4 +1,4 @@
-package com.example.finalsbackendjavaspringbootsmack.security;
+package com.example.finalsbackendjavaspringbootsmack.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
